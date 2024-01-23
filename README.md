@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @delahorrajr
+- 👀 I’m interested in Applied and Experimental Physics
+- 🌱 I’m currently learning ML
